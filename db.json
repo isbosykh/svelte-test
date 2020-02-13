@@ -1,0 +1,22 @@
+{
+  "goods": [
+    {
+      "title": "zzzz",
+      "description": "zzzzzzzzzz",
+      "price": 0,
+      "id": 1
+    },
+    {
+      "title": "Сапожки за косарь",
+      "description": "Сапожки :з",
+      "price": 1000,
+      "id": 3
+    },
+    {
+      "title": "111",
+      "description": "111",
+      "price": 500,
+      "id": 4
+    }
+  ]
+}
